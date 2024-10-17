@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["jhipster-app"],
+    "dbRandomPassword": "2c45ad292e6676d8e20346b152246dda6430b449ac91e54b0cccbf2eb858",
+    "deploymentApplicationType": "monolith",
+    "directoryPath": "../../",
+    "dockerPushCommand": "docker push",
+    "dockerRepositoryName": "lukethep",
+    "ingressDomain": null,
+    "ingressType": null,
+    "jhipsterVersion": "8.7.1",
+    "jwtSecretKey": "MGVmMTg0OWI3ODlhZThkZGE4OTRjNmViYzg0YjlmMmUyOWUzMjlhNWQ5ZjgwYTUzZjkxMzNjMTIxZmU4ZWRjNjRjMDhjYmY2NzcwMWIxMmNiYWNiNjdlNjE3ZGZlNTBhNzZkNQ==",
+    "kubernetesNamespace": "jhipster",
+    "kubernetesServiceType": "LoadBalancer",
+    "monitoring": "no",
+    "serviceDiscoveryType": "no"
+  }
+}
