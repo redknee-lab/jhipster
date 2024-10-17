@@ -8,12 +8,12 @@ spec:
   selector:
     matchLabels:
       app: jhipsterapp
-      version: 'v1'
+      version: 'v2'
   template:
     metadata:
       labels:
         app: jhipsterapp
-        version: 'v1'
+        version: 'v2'
     spec:
       affinity:
         podAntiAffinity:
