@@ -1,7 +1,7 @@
 {
   "generator-jhipster": {
     "appsFolders": ["jhipster-app"],
-    "dbRandomPassword": "2c45ad292e6676d8e20346b152246dda6430b449ac91e54b0cccbf2eb858",
+    "dbRandomPassword": "777d48aa120e099fdf5f8dfa0ccc5e46b30a853738084b486012f5ae7393",
     "deploymentApplicationType": "monolith",
     "directoryPath": "../../",
     "dockerPushCommand": "docker push",
@@ -9,12 +9,12 @@
     "ingressDomain": null,
     "ingressType": null,
     "jhipsterVersion": "8.7.1",
-    "jwtSecretKey": "MGVmMTg0OWI3ODlhZThkZGE4OTRjNmViYzg0YjlmMmUyOWUzMjlhNWQ5ZjgwYTUzZjkxMzNjMTIxZmU4ZWRjNjRjMDhjYmY2NzcwMWIxMmNiYWNiNjdlNjE3ZGZlNTBhNzZkNQ==",
+    "jwtSecretKey": "MzFhNDAwYjBhYjUyMmNmNGJkZWM3OTE4NjA4MjE4MWQ3MzQwZTA0YWYwZDZjMDEwNzUwMTI0YmYxNThiZjI5YzliODFlNWViYzlhZGVlNmFkOGU5MTgwYmFlMmE4Zjc2ODgwMQ==",
     "kubernetesNamespace": "jhipster",
     "kubernetesServiceType": "LoadBalancer",
-    "monitoring": "no",
     "kubernetesStorageClassName": null,
     "kubernetesUseDynamicStorage": false,
+    "monitoring": "no",
     "serviceDiscoveryType": "no"
   }
 }
