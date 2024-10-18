@@ -13,6 +13,8 @@
     "kubernetesNamespace": "jhipster",
     "kubernetesServiceType": "LoadBalancer",
     "monitoring": "no",
+    "kubernetesStorageClassName": null,
+    "kubernetesUseDynamicStorage": false,
     "serviceDiscoveryType": "no"
   }
 }
