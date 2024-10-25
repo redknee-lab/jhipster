@@ -46,7 +46,7 @@ spec:
               done
       containers:
         - name: jhipsterapp-app
-          image: lukethep/jhipsterapp:v8.0
+          image: lukethep/jhipsterapp:v9.0
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod
